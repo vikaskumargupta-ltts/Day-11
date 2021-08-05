@@ -1,0 +1,61 @@
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.dll
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.xml
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csprojAssemblyReference.cache
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Form1.resources
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CopyComplete
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Tech Mysuru-Adv C#, Unit Testing, TestStack.White-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.dll
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.xml
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csprojAssemblyReference.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Form1.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CopyComplete
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day08\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.dll
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.xml
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csprojAssemblyReference.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Form1.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CopyComplete
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day09\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.dll
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.xml
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csprojAssemblyReference.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.frmEmployeesList.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.frmLogin.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CopyComplete
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
