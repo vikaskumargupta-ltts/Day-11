@@ -20,7 +20,7 @@ namespace EmployeeManagementApp.WhiteTests
         public void Setup()
         {
             //Launch the application from the exe - using FilePath
-            thisApp = Application.Launch(@"E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe");
+            thisApp = Application.Launch(@"D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe");
             appWindows = thisApp.GetWindows();
             //Get the opening window (loginwindow)
             //Check that the application is open

@@ -64,3 +64,25 @@ E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Emp
 E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.dll
 E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.pdb
 E:\Training\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.pdb
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.MSUnitTests.dll.config
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.MSUnitTests.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.MSUnitTests.pdb
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.exe
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EntityFramework.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.pdb
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EmployeeManagementApp.exe.config
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EntityFramework.xml
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.csprojAssemblyReference.cache
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.csproj.CoreCompileInputs.cache
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.csproj.CopyComplete
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.dll
+D:\Training Data\L&T Testing-Jul-Aug-2021\CodeFactory\Day11\EmployeeManagementApp\Day-11\EmployeeManagementApp.MSUnitTests\obj\Debug\EmployeeManagementApp.MSUnitTests.pdb
